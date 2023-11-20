@@ -14,3 +14,30 @@ header{
     height: 45px;
     padding-top: 50px;
 }
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 52px;
+    margin: 0 0 ;
+}
+h2, h3 {
+    margin: 0 0 ;
+    color: #777777;
+}
+.didascalie{
+    list-style-type: none;
+}
+.evidenziato{
+    background-color: yellow;
+}
+div{
+    display: block;
+    margin: 0 0 0 0;
+}
+thead{
+    background-color: #20a9e5;
+    color: white;
+}
+.riga-celestina{
+    background-color: #b1e5f2;
+}
