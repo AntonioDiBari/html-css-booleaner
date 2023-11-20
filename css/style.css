@@ -24,20 +24,19 @@ h2, h3 {
     margin: 0 0 ;
     color: #777777;
 }
-.didascalie{
-    list-style-type: none;
-}
 .evidenziato{
     background-color: yellow;
-}
-div{
-    display: block;
-    margin: 0 0 0 0;
 }
 thead{
     background-color: #20a9e5;
     color: white;
+    text-align: left;
 }
 .riga-celestina{
     background-color: #b1e5f2;
+}
+table{
+    margin-left: 2px;
+    border: 1px solid #0000000;
+    border-collapse: collapse;
 }
